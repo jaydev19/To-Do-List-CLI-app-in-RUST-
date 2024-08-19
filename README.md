@@ -1,6 +1,5 @@
 # To-Do-List-CLI-app-in-RUST
 
-# minor_project
 a rust to-do app , using clap and mongodb
 
 ## Introduction
